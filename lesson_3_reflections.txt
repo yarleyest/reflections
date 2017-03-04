@@ -8,3 +8,18 @@ Because it could have some branches or experimental parts of the code you are no
 sure of their behaviour and you prefer don't release that to your group.
 Maybe you want to avoid confusing things in your group repository or not inject
 a bug.
+
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+
+Forks to get a copy of a public repository from GitHub
+Clones to get a copy of a repository of your Github to your local or clone a
+repository in other part or your local device
+Branches are divergent o difference lines of your group of commit. You used to
+create a divergent line of your current code (master). It's possible to use in
+local and push/pull to Github
+
+Definitely you use fork in Github, the other ones are possibilities for both of
+them and depend if you need a copy of someone else repository from Github (you use
+fork), if you need a copy for yourself from Github or local (you use clone) or
+make a new line to experiment or test changes in your programa (you use branch)
