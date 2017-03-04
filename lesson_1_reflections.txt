@@ -46,3 +46,5 @@ Now that you have your workspace set up, what do you want to try using Git for?
 
  I would like to save my baselines right now and to see the all propierties of
  version control working in Git.
+
+Something is not working welll¡¡¡
