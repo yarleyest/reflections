@@ -14,14 +14,37 @@ you decide if they are your final versions or deserve to be saved.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+I think that you have to add every file or group of files to the stagging area
+before commit something, that way to do thinks force you to be aware the files
+you had changed and create commits with information of every change you really
+commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branch are a great helper for some activities on programming as testing,
+experimenting new ways of code, recode your work or fixing bugs, without let
+the software goes out of service.
+
 How do the diagrams help you visualize the branch structure?
+
+They help us to understand if something is out of our branch structures and maybe
+we can lose the changes and programming we are doing.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result of merging is a fusion of the two branches according to the original
+commit which both of them have in common, and allow to combine changes done out
+the master on it or the principal branch. It's representing like a new point of
+encounter (commit) because we keep the history of the two branches and they find
+a mutual point of meet.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+I think every function works according the situation you have. Automatic merging
+is a pro if you need to merge many changes and they are complete different so
+you don't want to say yes or check something innecesary. But manually possibility
+is good too, because you can compare and take decisions about similar codes, feel
+confident you select the best resolution for your program.
+ 
