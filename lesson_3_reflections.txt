@@ -1,1 +1,10 @@
 When would you want to use a remote repository rather than keeping all your work local?
+Specially when your programming in group, because it's neccesary to have a place
+where all people can access.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+Because it could have some branches or experimental parts of the code you are not
+sure of their behaviour and you prefer don't release that to your group.
+Maybe you want to avoid confusing things in your group repository or not inject
+a bug.
