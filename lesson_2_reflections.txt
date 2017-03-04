@@ -5,6 +5,12 @@ to know where your repository is and what is its content.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+I think there working spaces with different functions, staging area its a transitory
+area where you keep the files you are working right now, the repository it's the
+final place of your files after commit and working directory its the point where
+your files are in your local view.
+These value to keep some logical division of your files and your work on them while
+you decide if they are your final versions or deserve to be saved.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
